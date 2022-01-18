@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NetworkProject</string>
+    <string name="idVK">Введите id ВК</string>
+    <string name="btn_search">Поиск</string>
+</resources>
